@@ -31,7 +31,7 @@ abstract class BasicDay(
     protected open val solvePart2: ((input: List<String>, isTestRun: Boolean) -> Any)? = null
 
     fun run(runMode: RunMode = RunMode.BOTH) {
-        println("Advent of Code 2015 - Day $day")
+        println("Advent of Code 2025 - Day $day")
         println("-".repeat(28))
 
         if (realInput == null) {
