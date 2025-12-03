@@ -14,9 +14,9 @@ from Jetbrains.
 
 | Day |          Title           | Part 1 | Part 2 |                                              Code                                               |
 |:---:|:------------------------:|:------:|:------:|:-----------------------------------------------------------------------------------------------:|
-| 01  | [Secret Entrance][day01] |   -    |   -    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day01.kt) |
-| 02  |    [Gift Shop][day02]    |   -    |   -    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day02.kt) |
-| 03  |      [Lobby][day03]      |   -    |   -    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day03.kt) |
+| 01  | [Secret Entrance][day01] |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day01.kt) |
+| 02  |    [Gift Shop][day02]    |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day02.kt) |
+| 03  |      [Lobby][day03]      |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day03.kt) |
 
 [^aoc-footnote]:
 [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2025.
