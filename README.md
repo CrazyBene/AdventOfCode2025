@@ -1,8 +1,8 @@
 # Advent Of Code 2025
 
-![Days completed](https://img.shields.io/badge/Days%20Completed-8-green)
-![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-16-yellow)
-![Help Needed](https://img.shields.io/badge/Help%20Needed%20➕-0-purple)
+![Days completed](https://img.shields.io/badge/Days%20Completed-9-green)
+![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-18-yellow)
+![Help Needed](https://img.shields.io/badge/Help%20Needed%20➕-1-purple)
 ![Not Solved](https://img.shields.io/badge/Not%20Solved%20❌-0-red)
 
 These are my solution to the Advent of Code[^aoc-footnote] puzzles of 2025.
@@ -12,16 +12,17 @@ from Jetbrains.
 
 ### Daily Solution Index
 
-| Day |            Title             | Part 1 | Part 2 |                                              Code                                               |
-|:---:|:----------------------------:|:------:|:------:|:-----------------------------------------------------------------------------------------------:|
-| 01  |   [Secret Entrance][day01]   |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day01.kt) |
-| 02  |      [Gift Shop][day02]      |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day02.kt) |
-| 03  |        [Lobby][day03]        |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day03.kt) |
-| 04  | [Printing Department][day04] |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day04.kt) |
-| 05  |      [Cafeteria][day05]      |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day05.kt) |
-| 06  |   [Trash Compactor][day06]   |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day06.kt) |
-| 07  |    [Laboratories][day07]     |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day07.kt) |
-| 08  |     [Playground][day08]      |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day08.kt) |
+| Day |            Title             | Part 1 |     Part 2      |                                              Code                                               |
+|:---:|:----------------------------:|:------:|:---------------:|:-----------------------------------------------------------------------------------------------:|
+| 01  |   [Secret Entrance][day01]   |   ⭐    |        ⭐        | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day01.kt) |
+| 02  |      [Gift Shop][day02]      |   ⭐    |        ⭐        | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day02.kt) |
+| 03  |        [Lobby][day03]        |   ⭐    |        ⭐        | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day03.kt) |
+| 04  | [Printing Department][day04] |   ⭐    |        ⭐        | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day04.kt) |
+| 05  |      [Cafeteria][day05]      |   ⭐    |        ⭐        | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day05.kt) |
+| 06  |   [Trash Compactor][day06]   |   ⭐    |        ⭐        | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day06.kt) |
+| 07  |    [Laboratories][day07]     |   ⭐    |        ⭐        | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day07.kt) |
+| 08  |     [Playground][day08]      |   ⭐    |        ⭐        | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day08.kt) |
+| 09  |    [Movie Theater][day09]    |   ⭐    | ➕ (polygon lib) | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day09.kt) |
 
 [^aoc-footnote]:
 [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2025.
@@ -49,3 +50,5 @@ You can solve the puzzle and provide an answer using the language of your choice
 [day07]: https://adventofcode.com/2025/day/7
 
 [day08]: https://adventofcode.com/2025/day/8
+
+[day09]: https://adventofcode.com/2025/day/9
