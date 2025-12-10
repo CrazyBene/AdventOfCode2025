@@ -1,8 +1,8 @@
 # Advent Of Code 2025
 
-![Days completed](https://img.shields.io/badge/Days%20Completed-9-green)
-![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-18-yellow)
-![Help Needed](https://img.shields.io/badge/Help%20Needed%20➕-1-purple)
+![Days completed](https://img.shields.io/badge/Days%20Completed-10-green)
+![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-20-yellow)
+![Help Needed](https://img.shields.io/badge/Help%20Needed%20➕-2-purple)
 ![Not Solved](https://img.shields.io/badge/Not%20Solved%20❌-0-red)
 
 These are my solution to the Advent of Code[^aoc-footnote] puzzles of 2025.
@@ -23,6 +23,7 @@ from Jetbrains.
 | 07  |    [Laboratories][day07]     |   ⭐    |        ⭐        | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day07.kt) |
 | 08  |     [Playground][day08]      |   ⭐    |        ⭐        | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day08.kt) |
 | 09  |    [Movie Theater][day09]    |   ⭐    | ➕ (polygon lib) | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day09.kt) |
+| 10  |       [Factory][day10]       |   ⭐    |   ➕ (z3 lib)    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day10.kt) |
 
 [^aoc-footnote]:
 [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2025.
@@ -52,3 +53,5 @@ You can solve the puzzle and provide an answer using the language of your choice
 [day08]: https://adventofcode.com/2025/day/8
 
 [day09]: https://adventofcode.com/2025/day/9
+
+[day10]: https://adventofcode.com/2025/day/10
